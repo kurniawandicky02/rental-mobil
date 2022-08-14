@@ -26,7 +26,7 @@ Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
 
    Di modul ini saya membuat fitur untuk melihat, menambah, mengubah dan menghapus data Perjalanan.
 
-7. **Modul Mata Pesanan*
+7. **Modul Data Pesanan*
 
    Di modul ini saya membuat fitur untuk melihat, menambah, mengubah dan menghapus data Pesanan.
 
