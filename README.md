@@ -14,19 +14,19 @@ Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
 
    Di modul ini saya membuat fitur untuk melihat, menambah, mengubah dan menghapus data Mobil.
    
-4. **Modul Mata Pemesan*
+4. **Modul Data Pemesan**
 
    Di modul ini saya membuat fitur untuk melihat, menambah, mengubah dan menghapus data Pemesan.
 
-5. **Modul Data Jenis Bayar*
+5. **Modul Data Jenis Bayar**
 
    Di modul ini saya membuat fitur untuk melihat, menambah, mengubah dan menghapus data Jenis Bayar.
 
-6. **Modul Data Perjalanan*
+6. **Modul Data Perjalanan**
 
    Di modul ini saya membuat fitur untuk melihat, menambah, mengubah dan menghapus data Perjalanan.
 
-7. **Modul Data Pesanan*
+7. **Modul Data Pesanan**
 
    Di modul ini saya membuat fitur untuk melihat, menambah, mengubah dan menghapus data Pesanan.
 
